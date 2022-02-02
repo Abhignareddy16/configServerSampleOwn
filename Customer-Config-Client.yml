@@ -1,0 +1,5 @@
+config:
+  client:
+    name: AAA
+    list[0]: bbb
+    list[1]: ccc
