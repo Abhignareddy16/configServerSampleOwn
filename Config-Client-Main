@@ -1,0 +1,4 @@
+config:
+  client:
+    name: MainClient
+    message: Hello Main Client.
