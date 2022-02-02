@@ -1,5 +1,5 @@
 config:
   client:
     name: AAA
-    list[0]: bbb
-    list[1]: ccc
+    productlist[0]: bbb
+    productlist[1]: ccc
