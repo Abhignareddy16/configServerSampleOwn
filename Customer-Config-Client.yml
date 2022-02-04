@@ -1,5 +1,5 @@
 config:
   client:
     name: Abhigna
-    productlist[0]: bbb
-    productlist[1]: ccc
+    productlist[0]: laptop
+    productlist[1]: charger
