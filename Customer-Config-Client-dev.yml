@@ -1,1 +1,5 @@
-
+config:
+  client:
+    name: Swarna
+    productlist[0] : ddd
+    productlist[1] : eee
